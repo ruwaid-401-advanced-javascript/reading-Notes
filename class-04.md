@@ -62,7 +62,8 @@ cons: Less Support
   * https://www.npmjs.com/package/mongoose
 * record
   * https://www.cengage.com/school/corpview/RegularFeatures/DatabaseTutorial/db_elements/db_elements2.htm
-* document: https://aws.amazon.com/nosql/document/
+* document: 
+  * https://aws.amazon.com/nosql/document/
 * Object Relation Mapping (ORM)
   * https://en.wikipedia.org/wiki/Object-relational_mapping
 
