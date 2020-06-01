@@ -1,4 +1,4 @@
-# read 5
+# read linked list
 
 ## What is a Linked List
 A Linked List is a sequence of Nodes that are connected/linked to each other. 
