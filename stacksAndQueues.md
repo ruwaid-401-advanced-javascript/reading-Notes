@@ -1,4 +1,4 @@
-# read 10
+# Stacks and Queues
 
 ## Stack 
 A stack is a type of data structure that is linear where order is conserved. For many people, stack is known to have a LIFO (Last In First Out) mechanism. Let’s take a look at an example of a stack in real life: stack of plates.
