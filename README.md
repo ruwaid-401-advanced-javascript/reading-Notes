@@ -20,3 +20,9 @@ This website is for *401* course and here I will put and add a summary for what 
 | Read 7  | class 7/[link](https://ruwaid-401-advanced-javascript.github.io/reading-Notes/class-07)                      |
 | Read 8  | class 8/[link](https://ruwaid-401-advanced-javascript.github.io/reading-Notes/class-08)                      |
 | Read 9  | class 9/[link](https://ruwaid-401-advanced-javascript.github.io/reading-Notes/class-09)                      |
+| Read 10 | class 10/[link](https://ruwaid-401-advanced-javascript.github.io/reading-Notes/stacksAndQueues)              |
+| Read 11 | class 11/[link](https://ruwaid-401-advanced-javascript.github.io/reading-Notes/class-11)                     |
+| Read 12 | class 12/[link](https://ruwaid-401-advanced-javascript.github.io/reading-Notes/class-12)                     |
+| Read 13 | class 13/[link](https://ruwaid-401-advanced-javascript.github.io/reading-Notes/class-13)                     |
+| Read 14 | class 14/[link](https://ruwaid-401-advanced-javascript.github.io/reading-Notes/class-14)                     |
+| Read 15 | class 15/[link](https://ruwaid-401-advanced-javascript.github.io/reading-Notes/class-15)                     |
