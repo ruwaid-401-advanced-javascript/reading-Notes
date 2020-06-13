@@ -27,3 +27,4 @@ This website is for *401* course and here I will put and add a summary for what 
 | Read 13 | class 13/[link](https://ruwaid-401-advanced-javascript.github.io/reading-Notes/class-13)                     |
 | Read 14 | class 14/[link](https://ruwaid-401-advanced-javascript.github.io/reading-Notes/class-14)                     |
 | Read 15 | class 15/[link](https://ruwaid-401-advanced-javascript.github.io/reading-Notes/trees)                        |
+| Read 16 | class 16/[link](https://ruwaid-401-advanced-javascript.github.io/reading-Notes/class-16)                     |
