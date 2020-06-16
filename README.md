@@ -30,3 +30,4 @@ This website is for *401* course and here I will put and add a summary for what 
 | Read 16 | class 16/[link](https://ruwaid-401-advanced-javascript.github.io/reading-Notes/class-16)                     |
 | Read 17 | class 17/[link](https://ruwaid-401-advanced-javascript.github.io/reading-Notes/class-17)                     |
 | Read 18 | class 18/[link](https://ruwaid-401-advanced-javascript.github.io/reading-Notes/class-18)                     |
+| Read 19 | class 19/[link](https://ruwaid-401-advanced-javascript.github.io/reading-Notes/class-19)                     |
