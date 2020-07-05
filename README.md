@@ -37,3 +37,4 @@ This website is for *401* course and here I will put and add a summary for what 
 | Read 29 | class 29/[link](https://ruwaid-401-advanced-javascript.github.io/reading-Notes/class-29)                     |
 | Read 30 | class 30/[link](https://ruwaid-401-advanced-javascript.github.io/reading-Notes/hashTable)                    |
 | Read 31 | class 31/[link](https://ruwaid-401-advanced-javascript.github.io/reading-Notes/class-31)                     |
+| Read 32 | class 32/[link](https://ruwaid-401-advanced-javascript.github.io/reading-Notes/class-32)                     |
