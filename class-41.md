@@ -13,10 +13,10 @@ Next.js is inspired by PHP and benefits from a great system of JavaScript module
 * Vue.js
 * Node.js
 
-##  (Links to an external site.)Top 10 php frameworks:
-Laravel
-Symfony
-Zend Framework
-CodeIgniter
-CakePHP
-FuelPHP
+## Some php frameworks:
+* Laravel
+* Symfony
+* Zend Framework
+* CodeIgniter
+* CakePHP
+* FuelPHP
